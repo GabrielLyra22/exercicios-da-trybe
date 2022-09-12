@@ -1,0 +1,91 @@
+{
+    "activities": [
+        {
+            "name": "Trekking",
+            "price": 0,
+            "description": {
+                "rating": 5,
+                "difficulty": "Fácil",
+                "createdAt": "10/08/2022"
+            }
+        }
+    ],
+    "persons": [
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "123456879",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "8d97b5b086dd4222"
+        },
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "1234568",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "37b2260be324ae32"
+        },
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "1234568",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "3d0494541b390968"
+        },
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "123456798",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "d5d35e030e10c173"
+        },
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "12345679",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "53d6754cfdd82acf"
+        },
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "1234567",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "6f7d51d7fda0798e"
+        },
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "1234567",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "a504ab377fa676ae"
+        },
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "123456788",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "f6f12eee42d32d6e"
+        },
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "123456788",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "2e39dd85958b9a0d"
+        },
+        {
+            "email": "jgabriellyra@hotmail.com",
+            "password": "123456788",
+            "firstName": "João",
+            "phone": 81998711311,
+            "token": "5577d49ee9dd7c1a"
+        },
+        {
+            "email": "jgabriel@live.com",
+            "password": "123456788",
+            "firstName": "Joãa",
+            "phone": 81998711311
+        }
+    ]
+}
